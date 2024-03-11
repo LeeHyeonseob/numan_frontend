@@ -1,8 +1,8 @@
 <template>
-  <div>
-    <h1>Welcome to the Application</h1>
-    <!-- More content here -->
-  </div>
+  <v-container>
+    <h1>Welcome to NUMAN</h1>
+
+  </v-container>
 </template>
 
 <script>
